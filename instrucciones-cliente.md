@@ -4,7 +4,7 @@ Instalar mods en cliente
 Instalar Forge
 --------------
 
-1. Descargar instalador de Forge: http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1722/forge-1.8.9-11.15.1.1722-installer.jar
+1. Descargar instalador de Forge: http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.1902-1.8.9/forge-1.8.9-11.15.1.1902-1.8.9-installer.jar
 2. Abrir el archivo
 3. Seleccionar "Install client"
 4. Seleccionar "OK"
