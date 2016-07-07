@@ -1,0 +1,9 @@
+forge_version=1.7.10-10.13.4.1614-1.7.10
+
+mod[0]=http://addons-origin.cursecdn.com/files/2238/492/twilightforest-1.7.10-2.3.7.jar
+mod[1]=http://addons-origin.cursecdn.com/files/2286/765/1.7.10-MB_Battlegear2-Bullseye-1.0.8.3.jar
+
+## server properties
+server_name="twilight"
+pvp=false
+online_mode=false
